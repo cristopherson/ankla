@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    background:url(../img/menu.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+button {    
+    height: 104px;
+    padding: 0;
+    margin: 0;
+    width: 134px;
+    position:absolute;
+	left: 40%;
+	margin-top:100%;	
+}
+
+#map {
+    background-image: url( '../img/map.png' );
+    background-size: 134px 104px;
+    background-repeat: no-repeat;
+    height: 104px;  
+    width: 134px;
+}
